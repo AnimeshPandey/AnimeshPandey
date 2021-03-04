@@ -4,9 +4,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpandey&langs_count=10&layout=compact&theme=radical)
 
-<a href="https://anmshpndy.com" target="_blank"><img align="left" alt="anmshpndy.com" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/www.png"/></a>
+<a href="https://anmshpndy.com" target="_blank"><img align="left" alt="anmshpndy.com" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Cottage.png"/></a>
 <a href="https://www.linkedin.com/in/pandeyanimesh" target="_blank"><img align="left" alt="Animesh P | LinkedIn" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/linkedin.png"/></a>
-<a href="https://www.instagram.com/anmshpndy" target="_blank"><img align="left" alt="Animesh P | Instagram" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/instagram.jpg"/></a>
+<a href="https://www.instagram.com/anmshpndy" target="_blank"><img align="left" alt="Animesh P | Instagram" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/instagram.png"/></a>
 <a href="https://twitter.com/anmshpndy" target="_blank"><img align="left" alt="Animesh P | Twitter" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/twitter.png"/></a>
 
 <br>
