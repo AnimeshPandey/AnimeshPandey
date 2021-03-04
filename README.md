@@ -1,25 +1,26 @@
-### Hello there! 👋
+### Hello there, I'm Animesh! 👋 
 <br>
-<img align="left" alt="anmshpndy.com" width="60px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/frosted-coffee.png"/>
-<img align="left" alt="anmshpndy.com" width="60px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/mango-banana.png"/>
-
-
-![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animeshpandey&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&locale=en)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpandey&langs_count=10&layout=compact&theme=radical)
 
 <a href="https://anmshpndy.com" target="_blank"><img align="left" alt="anmshpndy.com" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Cottage.png"/></a>
 <a href="https://www.linkedin.com/in/pandeyanimesh" target="_blank"><img align="left" alt="Animesh P | LinkedIn" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/linkedin.png"/></a>
 <a href="https://www.instagram.com/anmshpndy" target="_blank"><img align="left" alt="Animesh P | Instagram" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/instagram.png"/></a>
 <a href="https://twitter.com/anmshpndy" target="_blank"><img align="left" alt="Animesh P | Twitter" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/twitter.png"/></a>
-
-<br>
-<br>
-
 <a href="https://dev.to/anmshpndy" target="_blank"><img align="left" alt="Animesh P | Dev.to" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/dev.png"/></a>
 <a href="https://hashnode.com/@anmshpndy" target="_blank"><img align="left" alt="Animesh P | Hashnode" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/hashnode.png"/></a>
 <a href="https://anmshpndy.medium.com/" target="_blank"><img align="left" alt="Animesh P | Medium" width="25px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/medium.png"/></a>
 <a href="https://hackernoon.com/u/anmshpndy" target="_blank"><img align="left" alt="Animesh P | HackerNoon" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/hackernoon.png"/></a>
+<br>
+
+![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animeshpandey&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&locale=en)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpandey&langs_count=10&layout=compact&theme=radical)
+
+<br>
+<img align="left" alt="anmshpndy.com" width="120px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Workspace4.png"/>
+<br>
+<img align="left" alt="anmshpndy.com" width="80px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/frosted-coffee.png"/>
+<img align="left" alt="anmshpndy.com" width="120px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/mango-banana.png"/>
+<br>
 
 <!-- ### 📕 Latest Blog Post
 
