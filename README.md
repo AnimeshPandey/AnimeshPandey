@@ -4,18 +4,16 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpandey&langs_count=10&layout=compact&theme=radical)
 
+<!--
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=animeshpandey&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&locale=en" />
 </div>
+-->
 
+<!--
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpandey&langs_count=10&layout=compact&theme=radical" />
 </div>
-
-<!--
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpandey&langs_count=10&layout=compact&theme=radical" />
-</a>
 -->
 
 
