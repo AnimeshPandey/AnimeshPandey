@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there! 👋
+
+![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animeshpandey&show_icons=true&theme=radical)
+
 
 <!--
 **AnimeshPandey/AnimeshPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
