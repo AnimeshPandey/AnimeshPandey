@@ -1,4 +1,8 @@
 ### Hello there! 👋
+<br>
+<img align="left" alt="anmshpndy.com" width="60px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/frosted-coffee.png"/>
+<img align="left" alt="anmshpndy.com" width="60px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/mango-banana.png"/>
+
 
 ![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animeshpandey&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&locale=en)
 
@@ -14,7 +18,7 @@
 
 <a href="https://dev.to/anmshpndy" target="_blank"><img align="left" alt="Animesh P | Dev.to" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/dev.png"/></a>
 <a href="https://hashnode.com/@anmshpndy" target="_blank"><img align="left" alt="Animesh P | Hashnode" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/hashnode.png"/></a>
-<a href="https://anmshpndy.medium.com/" target="_blank"><img align="left" alt="Animesh P | Medium" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/medium.png"/></a>
+<a href="https://anmshpndy.medium.com/" target="_blank"><img align="left" alt="Animesh P | Medium" width="25px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/medium.png"/></a>
 <a href="https://hackernoon.com/u/anmshpndy" target="_blank"><img align="left" alt="Animesh P | HackerNoon" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/hackernoon.png"/></a>
 
 <!-- ### 📕 Latest Blog Post
