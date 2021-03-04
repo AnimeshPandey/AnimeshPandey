@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animeshpandey&show_icons=true&theme=radical)
+![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animeshpandey&show_icons=true&theme=tokyonight&count_private=true)
 
 
 <!--
