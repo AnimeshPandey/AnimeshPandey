@@ -1,6 +1,4 @@
 ### Hello there, I'm Animesh! 👋 
-<br>
-
 <a href="https://anmshpndy.com" target="_blank"><img align="left" alt="anmshpndy.com" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Cottage.png"/></a>
 <a href="https://www.linkedin.com/in/pandeyanimesh" target="_blank"><img align="left" alt="Animesh P | LinkedIn" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/linkedin.png"/></a>
 <a href="https://www.instagram.com/anmshpndy" target="_blank"><img align="left" alt="Animesh P | Instagram" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/instagram.png"/></a>
@@ -16,10 +14,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpandey&langs_count=10&layout=compact&theme=radical)
 
 <br>
-<img align="left" alt="anmshpndy.com" width="400px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Workspace4.png"/>
-<br>
-<img align="left" alt="anmshpndy.com" width="90px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/frosted-coffee.png"/>
-<img align="left" alt="anmshpndy.com" width="120px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/mango-banana.png"/>
+<img align="left" alt="anmshpndy.com" width="45px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/frosted-coffee.png"/>
+<img align="left" alt="anmshpndy.com" width="500px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Workspace4.png"/>
+<img align="left" alt="anmshpndy.com" width="60px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/mango-banana.png"/>
 <br>
 
 <!-- ### 📕 Latest Blog Post
