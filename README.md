@@ -1,4 +1,6 @@
-### Hello there, I'm Animesh! 👋 
+### Hello there, I'm Animesh! 👋
+<img align="left" alt="anmshpndy.com" width="600px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Workspace1- Flat Lay.png"/>
+<br>
 <a href="https://anmshpndy.com" target="_blank"><img align="left" alt="anmshpndy.com" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Cottage.png"/></a>
 <a href="https://www.linkedin.com/in/pandeyanimesh" target="_blank"><img align="left" alt="Animesh P | LinkedIn" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/linkedin.png"/></a>
 <a href="https://www.instagram.com/anmshpndy" target="_blank"><img align="left" alt="Animesh P | Instagram" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/instagram.png"/></a>
@@ -14,7 +16,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpandey&langs_count=10&layout=compact&theme=radical)
 
 <br>
-<img align="left" alt="anmshpndy.com" width="600px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Workspace4.png"/>
+<img align="left" alt="anmshpndy.com" width="600px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Workspace5.png"/>
 <br>
 
 <!-- ### 📕 Latest Blog Post
