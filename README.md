@@ -4,7 +4,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpandey&langs_count=10&layout=compact&theme=radical)
 
-Personal
 <a href="https://anmshpndy.com" target="_blank"><img align="left" alt="anmshpndy.com" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/www.png"/></a>
 <a href="https://www.linkedin.com/in/pandeyanimesh" target="_blank"><img align="left" alt="Animesh P | LinkedIn" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/linkedin.png"/></a>
 <a href="https://www.instagram.com/anmshpndy" target="_blank"><img align="left" alt="Animesh P | Instagram" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/instagram.png"/></a>
@@ -13,10 +12,9 @@ Personal
 <br>
 <br>
 
-Blogs
-<a href="https://dev.to/anmshpndy" target="_blank"><img align="left" alt="Animesh P | Dev.to" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/dev.svg"/></a>
+<a href="https://dev.to/anmshpndy" target="_blank"><img align="left" alt="Animesh P | Dev.to" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/dev.png"/></a>
 <a href="https://hashnode.com/@anmshpndy" target="_blank"><img align="left" alt="Animesh P | Hashnode" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/hashnode.png"/></a>
-<a href="https://anmshpndy.medium.com/" target="_blank"><img align="left" alt="Animesh P | Medium" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/medium.png"/></a>
+<a href="https://anmshpndy.medium.com/" target="_blank"><img align="left" alt="Animesh P | Medium" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/medium.jpeg"/></a>
 <a href="https://hackernoon.com/u/anmshpndy" target="_blank"><img align="left" alt="Animesh P | HackerNoon" width="22px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/hackernoon.png"/></a>
 
 <!-- ### 📕 Latest Blog Post
