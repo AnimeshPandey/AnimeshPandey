@@ -14,9 +14,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpandey&langs_count=10&layout=compact&theme=radical)
 
 <br>
-<img align="left" alt="anmshpndy.com" width="45px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/frosted-coffee.png"/>
-<img align="left" alt="anmshpndy.com" width="500px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Workspace4.png"/>
-<img align="left" alt="anmshpndy.com" width="60px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/mango-banana.png"/>
+<img align="left" alt="anmshpndy.com" width="600px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Workspace4.png"/>
 <br>
 
 <!-- ### 📕 Latest Blog Post
