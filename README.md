@@ -30,14 +30,12 @@
 
 <br />
 <br />
+-->
 
 ### Now Playing 🎧
 
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/amp9y6eu0h92w99cvljpvjuwn)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=amp9y6eu0h92w99cvljpvjuwn&count=5&width=300)
 <br/>
-
--->
-
 
 <!--
 **AnimeshPandey/AnimeshPandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
