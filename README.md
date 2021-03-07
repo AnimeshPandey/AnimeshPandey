@@ -34,7 +34,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=amp9y6eu0h92w99cvljpvjuwn&count=5&width=300)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=amp9y6eu0h92w99cvljpvjuwn&count=5&width=300)
 <br/>
 
 <!--
