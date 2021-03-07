@@ -17,7 +17,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpandey&langs_count=10&layout=compact&theme=buefy)
 
 <br>
-<img align="center" alt="anmshpndy.com" width="400px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Workspace5.png"/>
+<img align="center" alt="anmshpndy.com" width="500px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Workspace5.png"/>
 <br>
 
 <!-- ### 📕 Latest Blog Post
@@ -30,12 +30,12 @@
 
 <br />
 <br />
-
+-->
 
 ### Now Playing 🎧
 
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/)
-<br/> -->
+[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/amp9y6eu0h92w99cvljpvjuwn)
+<br/>
 
 
 <!--
