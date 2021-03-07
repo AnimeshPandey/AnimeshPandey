@@ -30,12 +30,13 @@
 
 <br />
 <br />
--->
 
 ### Now Playing 🎧
 
 [![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/amp9y6eu0h92w99cvljpvjuwn)
 <br/>
+
+-->
 
 
 <!--
