@@ -16,8 +16,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animeshpandey&langs_count=10&layout=compact&theme=buefy)
 
 <br>
-<img align="center" alt="anmshpndy.com" width="500px" src="https://github.com/AnimeshPandey/AnimeshPandey/blob/main/icons/Workspace5.png"/>
-<br>
 
 <!-- ### 📕 Latest Blog Post
 
