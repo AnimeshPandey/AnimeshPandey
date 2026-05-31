@@ -19,13 +19,13 @@
 </p>
 
 <p align="center">
-  I ship interfaces that survive <strong>real data</strong> — marketing intelligence dashboards,
+  I ship interfaces that survive <strong>real data</strong>: marketing intelligence dashboards,
   module-federation platforms for <strong>50k+ daily users</strong>, and <strong>agentic AI</strong>
   with streaming UX (not bolt-on chatbots).
 </p>
 
 <p align="center">
-  <strong>Try recruiter mode on the site</strong> — toggle in the header for a briefing panel, resume, and project highlights:
+  <strong>Try recruiter mode on the site</strong>: toggle in the header for a briefing panel, resume, and project highlights:
   <a href="https://anmshpndy.com">anmshpndy.com</a>
 </p>
 
@@ -33,9 +33,9 @@
 
 ### Now
 
-- **Lifesight** — Senior Software Engineer · marketing intelligence SaaS · Unified Measurement OS, SSR analytics, agentic AI (streaming UI, tool-call panels, Playwright &amp; perf in CI)
-- **Previously Tekion** — Module Federation across 10+ modules, design system, ~**30%** faster loads at **50k+ DAU**
-- **Before Vassar Labs** — GovTech dashboards (Kerala-WRIS, geospatial viz)
+- **Lifesight** - Senior Software Engineer · marketing intelligence SaaS · Unified Measurement OS, SSR analytics, agentic AI (streaming UI, tool-call panels, Playwright &amp; perf in CI)
+- **Previously Tekion** - Module Federation across 10+ modules, design system, ~**30%** faster loads at **50k+ DAU**
+- **Before Vassar Labs** - GovTech dashboards (Kerala-WRIS, geospatial viz)
 
 ---
 
@@ -43,14 +43,14 @@
 
 Case studies and contact: **[anmshpndy.com/#projects](https://anmshpndy.com/#projects)**
 
-- **Microfrontend platform** — Webpack Module Federation · 50k+ DAU · ~30% load wins · 10+ squads ([portfolio](https://anmshpndy.com/#projects))
-- **Agentic measurement UI** — LLM streaming, tool-call panels, BFF-style trust boundaries ([portfolio](https://anmshpndy.com/#projects))
-- **MMM &amp; incrementality dashboards** — Next.js SSR, dense data viz, Core Web Vitals in CI ([portfolio](https://anmshpndy.com/#projects))
-- **Performance &amp; quality guardrails** — Lighthouse CI, Playwright on previews, PR budget comments ([portfolio](https://anmshpndy.com/#projects))
+- **Microfrontend platform** - Webpack Module Federation · 50k+ DAU · ~30% load wins · 10+ squads ([portfolio](https://anmshpndy.com/#projects))
+- **Agentic measurement UI** - LLM streaming, tool-call panels, BFF-style trust boundaries ([portfolio](https://anmshpndy.com/#projects))
+- **MMM &amp; incrementality dashboards** - Next.js SSR, dense data viz, Core Web Vitals in CI ([portfolio](https://anmshpndy.com/#projects))
+- **Performance &amp; quality guardrails** - Lighthouse CI, Playwright on previews, PR budget comments ([portfolio](https://anmshpndy.com/#projects))
 
-**Site source:** [AnimeshPandey.github.io](https://github.com/AnimeshPandey/AnimeshPandey.github.io) — static GitHub Pages portfolio (6 themes, recruiter mode, accessibility-first patterns)
+**Site source:** [AnimeshPandey.github.io](https://github.com/AnimeshPandey/AnimeshPandey.github.io) - static GitHub Pages portfolio (6 themes, recruiter mode, accessibility-first patterns)
 
-**Exploring OSS next:** streaming UI hooks and MFE CI tooling — watch this profile for public repos.
+**Exploring OSS next:** streaming UI hooks and MFE CI tooling - watch this profile for public repos.
 
 ---
 
@@ -68,9 +68,9 @@ Also on [HackerNoon](https://hackernoon.com/u/anmshpndy) · [Medium](https://anm
 
 ### How I work
 
-- **Ship on the portfolio first** — case studies, honest pipeline status, recruiter mode for hiring managers
-- **Performance and a11y in CI** — budgets and Playwright before “looks fine on my machine”
-- **Human-written technical posts** — AI for outlines and diagrams only; generic “AI slop” is not the brand
+- **Ship on the portfolio first** - case studies, honest pipeline status, recruiter mode for hiring managers
+- **Performance and a11y in CI** - budgets and Playwright before “looks fine on my machine”
+- **Human-written technical posts** - AI for outlines and diagrams only; generic “AI slop” is not the brand
 
 ---
 
