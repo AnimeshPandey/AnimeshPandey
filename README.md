@@ -44,7 +44,7 @@
 | **Experience** | 7+ years · SaaS, automotive retail, GovTech |
 | **Scale** | 50k+ daily users (Tekion microfrontend platform) |
 | **Performance** | ~30% load-time reduction at scale |
-| **Casebook** | [31 live · 229 planned frontend cases](https://anmshpndy.com/cases/) · 18 tracks |
+| **Casebook** | [31 live of 229 planned frontend cases](https://anmshpndy.com/cases/) · 18 tracks |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-7%2B_years-4E7A68?style=flat-square" alt="Experience" />
@@ -77,7 +77,7 @@
 |---------|-------------|
 | **[anmshpndy.com](https://anmshpndy.com)** | Portfolio · 6 themes · EN/HI/ES · sticky section nav · resume PDF preview |
 | **[Recruiter briefing](https://anmshpndy.com/?recruiter=1)** | One-click hiring panel: at-a-glance facts, projects, copyable brief |
-| **[Frontend Casebook](https://anmshpndy.com/cases/)** | 31 live (229 planned) Growth.Design-style case studies for frontend craft |
+| **[Frontend Casebook](https://anmshpndy.com/cases/)** | 31 live of 229 planned Growth.Design-style case studies for frontend craft |
 | **Source** | [`AnimeshPandey.github.io`](https://github.com/AnimeshPandey/AnimeshPandey.github.io) — Eleventy + vanilla JS, GitHub Pages |
 
 Case studies and contact: **[anmshpndy.com/#projects](https://anmshpndy.com/#projects)**
