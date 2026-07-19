@@ -14,7 +14,8 @@
 <p align="center">
   <a href="https://anmshpndy.com"><img src="https://img.shields.io/badge/Portfolio-anmshpndy.com-BF5A32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://anmshpndy.com/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-4A5568?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume PDF"></a>
-  <a href="https://anmshpndy.com/cases/"><img src="https://img.shields.io/badge/Casebook-223_cases-2D7A4F?style=for-the-badge&logo=bookstack&logoColor=white" alt="Frontend Casebook"></a>
+  <a href="https://anmshpndy.com/cases/"><img src="https://img.shields.io/badge/Casebook-31_live-2D7A4F?style=for-the-badge&logo=bookstack&logoColor=white" alt="Frontend Casebook"></a>
+  <a href="https://anmshpndy.com/cases/links/"><img src="https://img.shields.io/badge/Newsletter-Inside_the_Casebook-4E7A68?style=for-the-badge&logo=rss&logoColor=white" alt="Inside the Casebook newsletter"></a>
   <a href="https://www.linkedin.com/in/pandeyanimesh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:animeshpandey1909@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -43,13 +44,13 @@
 | **Experience** | 7+ years · SaaS, automotive retail, GovTech |
 | **Scale** | 50k+ daily users (Tekion microfrontend platform) |
 | **Performance** | ~30% load-time reduction at scale |
-| **Casebook** | [223 scrollable frontend cases](https://anmshpndy.com/cases/) · 18 tracks |
+| **Casebook** | [31 live of 229 planned frontend cases](https://anmshpndy.com/cases/) · 18 tracks |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-7%2B_years-4E7A68?style=flat-square" alt="Experience" />
   <img src="https://img.shields.io/badge/Daily_users-50k%2B-4E8FA4?style=flat-square" alt="Daily users" />
   <img src="https://img.shields.io/badge/Load_reduction-~30%25-BF5A32?style=flat-square" alt="Load reduction" />
-  <img src="https://img.shields.io/badge/Casebook_cases-223-9060A8?style=flat-square" alt="Casebook cases" />
+  <img src="https://img.shields.io/badge/Casebook-31_live-9060A8?style=flat-square" alt="Casebook cases" />
 </p>
 
 <p align="center">
@@ -76,7 +77,7 @@
 |---------|-------------|
 | **[anmshpndy.com](https://anmshpndy.com)** | Portfolio · 6 themes · EN/HI/ES · sticky section nav · resume PDF preview |
 | **[Recruiter briefing](https://anmshpndy.com/?recruiter=1)** | One-click hiring panel: at-a-glance facts, projects, copyable brief |
-| **[Frontend Casebook](https://anmshpndy.com/cases/)** | 223 Growth.Design-style case studies for frontend craft |
+| **[Frontend Casebook](https://anmshpndy.com/cases/)** | 31 live of 229 planned Growth.Design-style case studies for frontend craft |
 | **Source** | [`AnimeshPandey.github.io`](https://github.com/AnimeshPandey/AnimeshPandey.github.io) — Eleventy + vanilla JS, GitHub Pages |
 
 Case studies and contact: **[anmshpndy.com/#projects](https://anmshpndy.com/#projects)**
